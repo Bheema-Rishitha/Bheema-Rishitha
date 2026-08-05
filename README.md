@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bheema Rishitha 👋
 
-<!--
-**Bheema-Rishitha/Bheema-Rishitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Computer Science & Engineering Student** at GRIET
+* **Focus Areas:** AI/ML Pipelines, RAG Architectures, Full-Stack Web Development[cite: 1]
+* **Open to:** Internships, software engineering roles, and open-source collaborations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Build 🛠️
+
+* **FinShield AI:** Privacy-first personal finance application utilizing a local LLM split-architecture (Llama 3.1) and FastAPI to parse sensitive financial data securely[cite: 1].
+* **Wisdom AI:** Explainable AI platform built with a hybrid RAG pipeline, Sentence-Transformers, and NetworkX Knowledge Graphs for rapid, structured guidance[cite: 1].
+
+---
+
+### Currently ℹ️
+
+* Sharpening Data Structures, Algorithms, and System Design fundamentals
+* Optimizing machine learning pipelines and building AI-driven web applications
+
+---
+
+### Tech Stack 🧑‍💻
+
+`Python` `Java` `C` `SQL` `FastAPI` `React.js` `JavaScript` `HTML/CSS` `SQLite` `Git` `VS Code`[cite: 1]
+
+---
+
+### Connect 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/RishithaBheema)[cite: 1]
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rishithabheema4@gmail.com)[cite: 1]
