@@ -8,9 +8,9 @@
 
 ### What I Build 🛠️
 
-* **FinShield AI:** Privacy-first personal finance application utilizing a local LLM split-architecture (Llama 3.1) and FastAPI to parse sensitive financial data securely.
 * **Wisdom AI:** Explainable AI platform built with a hybrid RAG pipeline, Sentence-Transformers, and NetworkX Knowledge Graphs for rapid, structured guidance.
-
+* **FinShield AI:** Privacy-first personal finance application utilizing a local LLM split-architecture (Llama 3.1) and FastAPI to parse sensitive financial data securely.
+* **Face Recognition Attendance System:** Automated attendance tracking web application built with Streamlit, OpenCV, RetinaFace, and DeepFace, featuring role-based access control and automated daily CSV logging.
 ---
 
 ### Currently ℹ️
